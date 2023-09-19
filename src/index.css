@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active {
+  background-color: green;
+  color: white;
+  padding: 2px;
+}
